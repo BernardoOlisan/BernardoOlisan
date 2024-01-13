@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardoolisan&label=Profile%20views&color=0e75b6&style=flat" alt="bernardoolisan" /> </p>
 
-- 🔭 I’m currently working on **NOM035 startup**
+- 🔭 I’m currently working on **(YourAha app)[https://www.youraha.com]**
 - 👨‍💻 All of my projects are available at [https://bernardoolisan.com]
 - 📫 How to reach me **bernardoolisan@gmail.com**
 
